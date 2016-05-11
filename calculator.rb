@@ -6,7 +6,7 @@
 puts "Welcome to the ruby calculator"
 puts "Enter your first number:" 
 # get the first number 
-puts "Enter your operator
+puts "Enter your operator"
 # get the operator
 puts "Enter the second number"
 # get the second number
